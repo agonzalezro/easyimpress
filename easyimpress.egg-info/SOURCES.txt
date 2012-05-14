@@ -1,0 +1,7 @@
+setup.py
+easyimpress/easyimpress.py
+easyimpress.egg-info/PKG-INFO
+easyimpress.egg-info/SOURCES.txt
+easyimpress.egg-info/dependency_links.txt
+easyimpress.egg-info/requires.txt
+easyimpress.egg-info/top_level.txt
